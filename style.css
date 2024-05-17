@@ -1,0 +1,124 @@
+body {
+    background-color: #ffc0cb;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    background-color: #EF9A9A;
+}
+
+div {
+    width: 265px;
+    margin: auto;
+    background-color: #D77676;
+}
+
+.Screen {
+    width: 30%;
+    background-color: #D77676;
+
+}
+
+.Header {
+    color: #FBEF0A;
+}
+
+.name {
+    background-color: lightcoral;
+    color: #FBEF0A;
+}
+
+.movie {
+    color: red;
+}
+
+.ghibli {
+    color: #611E15;
+}
+
+.animal {
+    color: #941147;
+}
+
+.zone {
+    color: maroon;
+    font-weight: bold;
+}
+
+.district {
+    color: blue;
+    font-weight: bold;
+}
+
+.city {
+    color: white;
+    font-weight: bold;
+}
+
+.nepal {
+    color: #340436;
+}
+
+.india {
+    color: #033617;
+}
+
+.num {
+    color: #663399;
+}
+
+.date {
+    border: 1px solid black;
+}
+
+.margin {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin2 {
+    border: "1";
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin3 {
+    border: "1";
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.people {
+    background-color: lightblue;
+}
+
+.html {
+    background-color: darkred;
+}
+
+.css {
+    background-color: cornflowerblue;
+}
+
+.js {
+    background-color: darkolivegreen;
+}
+
+.iframe {
+    position: none;
+    height: 180%;
+    width: 100%;
+}
